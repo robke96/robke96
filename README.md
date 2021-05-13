@@ -13,7 +13,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mh752&show_icons=true&theme=synthwave" alt="mh752 :: Profile Stats" /></p>
 
-<p align="center">[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mh752)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mh752)](https://github.com/anuraghazra/github-readme-stats)>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
