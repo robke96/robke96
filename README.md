@@ -1,4 +1,10 @@
 ### Hi there 👋
+<a href="https://github.com/mh752">
+  <img src="https://img.shields.io/github/followers/mh752">
+</a>
+<a href="https://github.com/mh752">
+   <img src="https://komarev.com/ghpvc/?username=mh752">
+</a>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
