@@ -1,5 +1,4 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> SVEIKYY&nbsp;<img 
-<h2 align="center">You can reach me at :alien:</h2>
+
 
 <p align="center">
   <a href="https://dev.to/anhello">
