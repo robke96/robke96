@@ -1,9 +1,8 @@
-### Hi there 👋
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> SVEIKYY&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+
 <a href="https://github.com/mh752">
   <img src="https://img.shields.io/github/followers/mh752">
-</a>
-<a href="https://github.com/mh752">
-   <img src="https://komarev.com/ghpvc/?username=mh752">
 </a>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
