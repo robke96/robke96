@@ -17,4 +17,4 @@
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 <a href="https://www.instagram.com/robke969/"><img src="https://img.shields.io/badge/instagram%20@robke969-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/robke969/"><img src="https://img.shields.io/badge/facebook%20@Robertas-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/discord%20@Kavinė-0D95E8?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://dsc.gg/kavine/"><img src="https://img.shields.io/badge/discord%20@Kavinė-0D95E8?style=for-the-badge&logo=discord&logoColor=white"/></a>
