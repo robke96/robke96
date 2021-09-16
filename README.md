@@ -19,7 +19,5 @@
 <a href="https://www.facebook.com/robke969/"><img src="https://img.shields.io/badge/facebook%20@Robertas-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://dsc.gg/kavine/"><img src="https://img.shields.io/badge/discord%20@Kavinė-0D95E8?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
-## Visitors ✨
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=mh752" id="counter">
-</p>
+## Visitors ✨ 
+![VisitorCount](https://profile-counter.glitch.me/hrishikesh-coder/count.svg)
