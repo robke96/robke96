@@ -5,7 +5,6 @@
 -  **:books: I’m currently learning :**  JavaScript, Python, MongoDB
 -  ⚡️ **Working on :** Discord Bots
 -  🌸 **Hobbies :** Books :books: | Music :headphones: | Sleep 24/7 :sleeping: | :computer: Coding |
--  :cactus: **Ask me about :** Penguins 🐧
 -  :sweat_smile: **Fun fact :** I ~like~ **love** coffee ☕
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
