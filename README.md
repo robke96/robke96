@@ -2,7 +2,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🐧 About
--  **:books: I’m currently learning :**  JavaScript, Python
+-  **:books: I’m currently learning :**  JavaScript, Python, MongoDB
 -  ⚡️ **Working on :** Discord Bots
 -  🌸 **Hobbies :** Books :books: | Music :headphones: | Sleep 24/7 :sleeping: | :computer: Coding |
 -  :cactus: **Ask me about :** Anything!, I'm happy to help :v:
