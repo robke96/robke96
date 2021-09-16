@@ -12,7 +12,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9jk9512etenzu6nt37t6ita0d&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=9jk9512etenzu6nt37t6ita0d&redirect=true)
 
 ## Languages and Social Media:
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=ada94b)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=black&labelColor=e0d928)
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4aa32f)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=347aeb)
 <a href="https://www.instagram.com/robke969/"><img src="https://img.shields.io/badge/instagram%20@robke969-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
