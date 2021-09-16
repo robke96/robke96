@@ -7,3 +7,7 @@
 -  :cactus: **Ask me about :** Anything!, I'm happy to help :v:
 -  :sweat_smile: **Fun fact :** I ~like~ **love** coffee ☕
 -  📫 **Reach me :** [CLICK HERE](https://linktr.ee/Robke96)
+
+## Spotify Playing 🎧
+
+[<img src=[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9jk9512etenzu6nt37t6ita0d&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
