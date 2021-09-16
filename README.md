@@ -10,4 +10,4 @@
 
 ## Spotify Playing 🎧
 
-[<img src=[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9jk9512etenzu6nt37t6ita0d&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
+[<img src=[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9jk9512etenzu6nt37t6ita0d&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/9jk9512etenzu6nt37t6ita0d?si=87459f8339544083)
