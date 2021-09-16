@@ -20,4 +20,4 @@
 <a href="https://dsc.gg/kavine/"><img src="https://img.shields.io/badge/discord%20@Kavinė-0D95E8?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 ## Visitors ✨ 
-![VisitorCount](https://profile-counter.glitch.me/hrishikesh-coder/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/mh752/count.svg)
