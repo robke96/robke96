@@ -12,8 +12,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9jk9512etenzu6nt37t6ita0d&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=9jk9512etenzu6nt37t6ita0d&redirect=true)
 
 ## Languages and Social Media:
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=ebdc34)
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=60f542)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=c9c11c)
+![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4aa32f)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=347aeb)
 <a href="https://www.instagram.com/robke969/"><img src="https://img.shields.io/badge/instagram%20@robke969-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/robke969/"><img src="https://img.shields.io/badge/facebook%20@Robertas-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
