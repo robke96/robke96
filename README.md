@@ -6,8 +6,10 @@
 -  🌸 **Hobbies :** Books :books: | Music :headphones: | Sleep 24/7 :sleeping: | :computer: Coding |
 -  :cactus: **Ask me about :** Anything!, I'm happy to help :v:
 -  :sweat_smile: **Fun fact :** I ~like~ **love** coffee ☕
--  📫 **Reach me :** [CLICK HERE](https://linktr.ee/Robke96)
 
 ## Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9jk9512etenzu6nt37t6ita0d&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=9jk9512etenzu6nt37t6ita0d&redirect=true)
+
+## Languages and Social Media:
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
