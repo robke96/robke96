@@ -13,7 +13,7 @@
 
 ## Languages and Social Media:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=black&labelColor=e0d928)
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4aa32f)
+![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=4aa32f)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=347aeb)
 <a href="https://www.instagram.com/robke969/"><img src="https://img.shields.io/badge/instagram%20@robke969-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/robke969/"><img src="https://img.shields.io/badge/facebook%20@Robertas-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
