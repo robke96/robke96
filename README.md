@@ -2,9 +2,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🐧 About
--  **:books: I’m currently learning :**  NodeJS, ReactJS
+-  **:books: I’m currently learning :**  NodeJS, React
 -  ⚡️ **Working on :** Discord Bots
--  🌸 **Hobbies :**| Music :headphones: | Sleep 24/7 :sleeping: | :computer: Coding |
+-  🌸 **Hobbies :**| Music :headphones: | Sleep 24/7 :sleeping: | :computer: Coding | Books :books:
 -  :sweat_smile: **Fun fact :** I ~like~ **love** coffee ☕
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
