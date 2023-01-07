@@ -1,28 +1,34 @@
-# <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Labas!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="22px">
+<img width="100%" src="https://raw.githubusercontent.com/robke96/robke96/main/exported.jpeg">
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🐧 About
--  **:books: I’m currently learning :**  NodeJS, React
--  ⚡️ **Working on :** Discord Bots
--  🌸 **Hobbies :**| Music :headphones: | Sleep 24/7 :sleeping: | :computer: Coding | Books :books:
--  :sweat_smile: **Fun fact :** I ~like~ **love** coffee ☕
+```javascript
+const robke96 = {
+  name: "Robertas",
+  age: 16,
+  skills: "Discord bot development",
+  hobbies: ["Playing guitar 🎸","Reading books 📚","Sleeping 24/7 💤"],
+  experience: "None yet! (But I'm open to opportunities. 😄)"
+}
+```
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9jk9512etenzu6nt37t6ita0d&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=9jk9512etenzu6nt37t6ita0d&redirect=true)
+-------------------------------------------------------------------------------------
+<h1 align="left"> Languages and Tools </h1>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Languages and Social Media 🔥
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4aa32f)
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=347aeb)
-<a href="https://www.instagram.com/robke969/"><img src="https://img.shields.io/badge/instagram%20@robke969-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/robke969/"><img src="https://img.shields.io/badge/facebook%20@Robertas-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://dsc.gg/tinderis/"><img src="https://img.shields.io/badge/discord%20@Tinder Lietuva-0D95E8?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<p align="left">
+<a id="img1" href="#img1"><img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60" title="javascript"/></a>
+<a id="img2" href="#img2"><img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" title="vscode"/><a/>
+<a id="img3" href="#img3"><img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" title="node"/></a>
+</p> 
+  
+ 
+<h1 align="left"> Contact </h1>
+<p align="left">  
+  <a id="img4" href="https://discordapp.com/users/709811143295762454"><img alt="discord" src="https://media2.giphy.com/media/0RV4RJqGnCJ4dqtgCk/giphy.gif"    width="60" title="discord" /></a>
+<a id="img5" href=""><img alt="instagram" src="https://media2.giphy.com/media/4iM1NqfIqt6szs8kZd/giphy.gif" width="60" title="instagram" /></a>
+</p>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Visitors ✨ 
-![VisitorCount](https://profile-counter.glitch.me/mh752/count.svg)
+<!-- 
+# FACEBOOK
+<a id="img5" href="#img5" target="_blank"><img alt="facebook" src="https://media2.giphy.com/media/MKUluJFkSlRQ8nw7rf/giphy.gif" width="60" title="facebook" /></a> 
+-->
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
