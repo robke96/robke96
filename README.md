@@ -3,7 +3,7 @@
 ```javascript
 const robke96 = {
   name: "Robertas",
-  age: 16,
+  age: 17,
   skills: "Discord bot development",
   hobbies: ["Playing guitar 🎸","Reading books 📚","Sleeping 24/7 💤"],
   experience: "None yet! (But I'm open to opportunities. 😄)"
