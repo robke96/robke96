@@ -4,9 +4,7 @@
 const robke96 = {
   name: "Robertas",
   age: 17,
-  skills: "Discord bot development",
-  hobbies: ["Playing guitar 🎸","Reading books 📚","Sleeping 24/7 💤"],
-  experience: "None yet! (But I'm open to opportunities. 😄)"
+  interests: ["Guitar Enthusiast 🎸", "Coffee Lover ☕", "Bookworm 📚", "Napping Fan 💤"],
 }
 ```
 
@@ -20,6 +18,7 @@ const robke96 = {
   <a id="js" href="#js"><img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60" title="javascript"/></a>
   <a id="vscode" href="#vscode"><img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" title="vscode"/><a/>
   <a id="node" href="#node"><img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" title="node"/></a>
+  <a id="react" href="#react"><img alt="react" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60" title="react"/></a>
 </p> 
   
  
