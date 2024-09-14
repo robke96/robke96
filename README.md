@@ -3,7 +3,7 @@
 ```javascript
 const robke96 = {
   name: "Robertas",
-  age: 17,
+  age: 18,
   interests: ["Guitar Enthusiast 🎸", "Coffee Lover ☕", "Bookworm 📚", "Napping Fan 💤"],
 }
 ```
