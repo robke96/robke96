@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/robke96/robke96/main/exported.jpeg">
+<img width="100%" src="https://raw.githubusercontent.com/robke96/robke96/main/exported.webp">
 
 ```javascript
 const robke96 = {
