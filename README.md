@@ -10,7 +10,7 @@ const robke96 = {
 <h1 align="left">💻 Languages and Tools </h1>
 <p align="left">
   <a href="#">
-    <img alt="icons" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mongodb,vscode,linux" /> 
+    <img alt="icons" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,discordjs,react,mongodb,vscodium,figma,linux,arduino," /> 
   </a>
 </p>
 <h1 align="left">✍️ Contact</h1>
