@@ -9,9 +9,22 @@ const robke96 = {
 ```
 <h1 align="left">💻 Languages and Tools </h1>
 <p align="left">
-  <a href="#">
-    <img alt="icons" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwindcss,nodejs,discordjs,react,mongodb,vscodium,figma,linux,arduino," /> 
-  </a>
+<div>
+  <img alt="html" src="https://skillicons.dev/icons?i=html" />
+  <img alt="css" src="https://skillicons.dev/icons?i=css" />
+  <img alt="sass" src="https://skillicons.dev/icons?i=sass" />
+  <img alt="js" src="https://skillicons.dev/icons?i=js" />
+  <img alt="ts" src="https://skillicons.dev/icons?i=ts" />
+  <img alt="tailwindcss" src="https://skillicons.dev/icons?i=tailwindcss" />
+  <img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
+  <img alt="discordjs" src="https://skillicons.dev/icons?i=discordjs" />
+  <img alt="react" src="https://skillicons.dev/icons?i=react" />
+  <img alt="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
+  <img alt="vscodium" src="https://skillicons.dev/icons?i=vscodium" />
+  <img alt="figma" src="https://skillicons.dev/icons?i=figma" />
+  <img alt="linux" src="https://skillicons.dev/icons?i=linux" />
+  <img alt="arduino" src="https://skillicons.dev/icons?i=arduino" />
+</div>
 </p>
 <h1 align="left">✍️ Contact</h1>
 <p align="left">
