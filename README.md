@@ -15,8 +15,9 @@ const robke96 = {
   <img alt="sass" src="https://skillicons.dev/icons?i=sass" />
   <img alt="js" src="https://skillicons.dev/icons?i=js" />
   <img alt="ts" src="https://skillicons.dev/icons?i=ts" />
+  <img alt="docker" src="https://skillicons.dev/icons?i=docker" />
   <img alt="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
-  <img alt="arduino" src="https://skillicons.dev/icons?i=arduino" />
+  <img alt="postgresql" src="https://skillicons.dev/icons?i=postgresql" />
   <img alt="tailwindcss" src="https://skillicons.dev/icons?i=tailwindcss" />
   <img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
   <img alt="discordjs" src="https://skillicons.dev/icons?i=discordjs" />
