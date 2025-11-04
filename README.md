@@ -3,28 +3,29 @@
 ```javascript
 const robke96 = {
   name: "Robertas",
-  age: 18,
+  age: 19,
   interests: ["Guitar Enthusiast 🎸", "Coffee Lover ☕", "Bookworm 📚", "Napping Fan 💤"],
 }
 ```
 <h1 align="left">💻 Languages and Tools </h1>
 <p align="left">
 <div>
+  <img alt="go" src="https://skillicons.dev/icons?i=go" />
+  <img alt="ts" src="https://skillicons.dev/icons?i=ts" />
+  <img alt="js" src="https://skillicons.dev/icons?i=js" />
   <img alt="html" src="https://skillicons.dev/icons?i=html" />
   <img alt="css" src="https://skillicons.dev/icons?i=css" />
-  <img alt="sass" src="https://skillicons.dev/icons?i=sass" />
-  <img alt="js" src="https://skillicons.dev/icons?i=js" />
-  <img alt="ts" src="https://skillicons.dev/icons?i=ts" />
   <img alt="docker" src="https://skillicons.dev/icons?i=docker" />
   <img alt="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
   <img alt="postgresql" src="https://skillicons.dev/icons?i=postgresql" />
   <img alt="tailwindcss" src="https://skillicons.dev/icons?i=tailwindcss" />
   <img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
+  <img alt="bun" src="https://skillicons.dev/icons?i=bun" />
   <img alt="discordjs" src="https://skillicons.dev/icons?i=discordjs" />
   <img alt="react" src="https://skillicons.dev/icons?i=react" />
-  <img alt="vscodium" src="https://skillicons.dev/icons?i=vscodium" />
   <img alt="figma" src="https://skillicons.dev/icons?i=figma" />
   <img alt="linux" src="https://skillicons.dev/icons?i=linux" />
+  <img alt="raspberrypi" src="https://skillicons.dev/icons?i=raspberrypi" />
 </div>
 </p>
 <h1 align="left">✍️ Contact</h1>
